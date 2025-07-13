@@ -121,7 +121,7 @@ const renderTemplate = (title: string, content: string, user?: User | null): str
     
     <footer>
         <div class="container">
-            <p>&copy; 2024 ${settings.siteName}. Built with Verb framework.</p>
+            <p>&copy; 2025 ${settings.siteName}. Built with Verb framework.</p>
         </div>
     </footer>
 </body>
