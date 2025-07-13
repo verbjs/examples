@@ -1,0 +1,16 @@
+{
+  "name": "file-upload-storage-example",
+  "version": "1.0.0",
+  "description": "Comprehensive file upload example with validation, storage, and management",
+  "scripts": {
+    "dev": "bun --hot src/server.ts",
+    "start": "bun src/server.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "verb": "file:../../verb"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}

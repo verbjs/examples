@@ -1,0 +1,16 @@
+{
+  "name": "websocket-chat-example",
+  "version": "1.0.0",
+  "description": "Real-time WebSocket chat with rooms and authentication",
+  "scripts": {
+    "dev": "bun --hot src/server.ts",
+    "start": "bun src/server.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "verb": "file:../../verb"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}

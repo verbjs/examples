@@ -1,0 +1,16 @@
+{
+  "name": "blog-cms-example",
+  "version": "1.0.0",
+  "description": "Blog/CMS with admin panel using Verb",
+  "scripts": {
+    "dev": "bun --hot src/server.ts",
+    "start": "bun src/server.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "verb": "file:../../verb"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-api-example",
+  "version": "1.0.0",
+  "description": "E-commerce API with payments integration using Verb",
+  "scripts": {
+    "dev": "bun --hot src/server.ts",
+    "start": "bun src/server.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "verb": "file:../../verb"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
