@@ -12,7 +12,7 @@
     "test": "bun test"
   },
   "dependencies": {
-    "verb": "file:../../verb",
+    "verb": "github:verbjs/verb",
     "postgres": "^3.4.4"
   },
   "devDependencies": {
