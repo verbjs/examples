@@ -245,9 +245,9 @@ When adding new examples:
 
 ## Resources
 
-- [Verb Framework Documentation](https://verbs.codes/docs/)
+- [Verb Framework Documentation](https://verb.codes/docs/)
 - [Bun Runtime Documentation](https://bun.sh/docs)
-- [Protocol Gateway Deep Dive](https://verbs.codes/docs/protocol-gateway/)
+- [Protocol Gateway Deep Dive](https://verb.codes/docs/protocol-gateway/)
 - [TypeScript Best Practices](https://www.typescriptlang.org/docs/)
 
 ## License
